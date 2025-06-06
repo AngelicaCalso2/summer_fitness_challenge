@@ -7,7 +7,7 @@ import plotly.express as px
 
 # Access the GitHub token
 GITHUB_TOKEN = st.secrets["github_token"]
-REPO = 'angelicacalso/SummerFitnessChallenge'
+REPO = 'AngelicaCalso2/summer_fitness_challenge'
 FILE_PATH = 'user_data.xlsx'
 
 # Function to get the Excel file content
